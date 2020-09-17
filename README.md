@@ -1,3 +1,3 @@
-# Img
+# iPictureRepository
 
-Picture warehouse
+MY PICTURE REPOSITORY
